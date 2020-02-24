@@ -110,7 +110,7 @@ address = {street = "No.29 Yudao St.", city = "Nanjing", region = "Jiangsu Provi
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+#  ]
 
 ############################
 ## Social

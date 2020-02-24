@@ -28,7 +28,7 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
-    exclude_featured = true
+    exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
@@ -66,6 +66,6 @@ subtitle = ""
  css_class = ""
 +++
 
-# {{% alert note %}}
-# Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-# {{% /alert %}}
+{{% alert note %}}
+Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+{{% /alert %}}

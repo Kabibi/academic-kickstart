@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I'm currently a graduate student in the Department of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, supervised by [Prof. Xiaoyang Tan](https://scholar.google.com/citations?user=rHMtSOYAAAAJ&hl=en). I received the bachelor degree from Anhui University of Technology in June 2018.
+I'm currently a graduate student in the Department of Computer Science and Technology, [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/), supervised by [Prof. Xiaoyang Tan](https://scholar.google.com/citations?user=rHMtSOYAAAAJ&hl=en). I received the bachelor degree from Anhui University of Technology in June 2018.
 
 My research interests include deep reinforcement learning, multi-agent reinforcement learning and machine learning.
 

@@ -30,10 +30,10 @@ education:
   - course: M.S. in Computer Science
     institution:  Nanjing University of Aeronautics and Astronautics
     year: 2018.9 - 2021.4 (expected)
-  - course: B.S. in Network Engineering
+#  - course: B.S. in Network Engineering
     institution: Anhui University of Technology
     year: 2014.9 - 2018.7
-  - course: Exchange Student in Computer Science and Information Engineering
+#  - course: Exchange Student in Computer Science and Information Engineering
     institution: National Yunlin University of Science and Technology
     year: 2016.2 - 2016.7
 
@@ -70,11 +70,11 @@ user_groups:
 - Visitors
 ---
 
-I'm currently a graduate student in the Department of Computer Science and Technology, [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/), supervised by [Prof. Xiaoyang Tan](https://scholar.google.com/citations?user=rHMtSOYAAAAJ&hl=en). I received the bachelor degree from Anhui University of Technology in June 2018.
+I'm currently a graduate student in the Department of Computer Science and Technology, [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/), supervised by [Prof. Xiaoyang Tan](https://scholar.google.com/citations?user=rHMtSOYAAAAJ&hl=en).
 
 My research interests include deep reinforcement learning, multi-agent reinforcement learning and machine learning.
 
-<span style="color:red">I will graduate from NUAA with a master's degree in April 2021. I'm looking for a PhD position in computer science. </span>
+I will graduate from NUAA with a master's degree in April 2021.
 
 
 

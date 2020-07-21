@@ -31,11 +31,11 @@ education:
     institution:  Nanjing University of Aeronautics and Astronautics
     year: 2018.9 - 2021.4 (expected)
 #  - course: B.S. in Network Engineering
-    institution: Anhui University of Technology
-    year: 2014.9 - 2018.7
+#    institution: Anhui University of Technology
+#    year: 2014.9 - 2018.7
 #  - course: Exchange Student in Computer Science and Information Engineering
-    institution: National Yunlin University of Science and Technology
-    year: 2016.2 - 2016.7
+#    institution: National Yunlin University of Science and Technology
+#    year: 2016.2 - 2016.7
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
